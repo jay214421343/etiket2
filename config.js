@@ -9,7 +9,7 @@ const config = {
   support: [],
 
   // Your Bot's Token. Available on https://discordapp.com/developers/applications/me
-  token: "mfa.VkO_2G4Qv3T--NO--lWetW_tjND--TOKEN--QFTm6YGtzq9PH--4U--tG0",
+  token: "NTY3Njk0MzM5Mjc5NjgzNjA0.XLXQqg.5lpigNuAsENrcEtHVw5WLpAfQ_g",
 
   // This implementation uses enmap-mongo for tag storage. Unless you change the enmap configuration
   // in index.js, you should put the URL of a valid mongo db server with a collection in here.
